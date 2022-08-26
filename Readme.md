@@ -1,6 +1,6 @@
 # Desafio Estágio SoftMakers
 
-##### Como rodar a aplicação
+### Como rodar a aplicação
 
 
 **1** - Para a aplicação funcionar é necessário ter o NodeJS e o MySQL instalados na máquina.
