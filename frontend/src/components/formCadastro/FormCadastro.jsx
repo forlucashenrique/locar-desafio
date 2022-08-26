@@ -54,7 +54,7 @@ export default function FormCadastro(){
                             <option value="Sedan">Sedan</option>
                             <option value="SUV">SUV</option>
                         </select>
-                        <span className={styles.error_message}>{errors.tipo?.message}</span>
+                        
                     </div>
 
 
@@ -64,7 +64,7 @@ export default function FormCadastro(){
                             <option value="Disponível">Disponível</option>
                             <option value="Indisponível">Indisponível</option>
                         </select>
-                        <span className={styles.error_message}>{errors.status?.message}</span>
+                        
                     </div>
 
                    
