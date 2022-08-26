@@ -6,7 +6,9 @@
 **1** - Para a aplicação funcionar é necessário ter o NodeJS e o MySQL instalados na máquina.
 
 **Links para instalação**
+
 NodeJS versão 16.15.1 ou superior: <https://nodejs.dev/en/download/>
+
 MySQL Community Server 8.0.30 ou superior: <https://dev.mysql.com/downloads/mysql/>
 
 **2** - Com o Node e MySQL instalados, e assumindo que o usuário root do MySQL e a senha foram configurados, precisamos instalar a dependência do Node para conexão com o banco de dados. Abra o terminal e execute o comando: 
